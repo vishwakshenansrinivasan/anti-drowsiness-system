@@ -141,7 +141,7 @@ This project is open-source and available under the **MIT License**.
 
 ## 👤 Author
 
-- **Vishwak Shenansrinivasan**  
+- **Vishwakshenan Srinivasan**  
 - GitHub: [@vishwakshenansrinivasan](https://github.com/vishwakshenansrinivasan)
 
 ---
