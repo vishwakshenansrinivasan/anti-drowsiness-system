@@ -125,12 +125,6 @@ python drowsiness_detector.py
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the **MIT License**.
-
----
-
 ## 🙌 Acknowledgements
 
 - [dlib](http://dlib.net/) for facial landmark detection
